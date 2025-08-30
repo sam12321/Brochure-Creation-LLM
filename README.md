@@ -48,11 +48,8 @@ Output: A polished, company-specific brochure in text/HTML/PDF format.
 git clone https://github.com/your-username/brochure-creation.git
 cd brochure-creation
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run project
-python main.py --url "https://example.com"
+import .ipynb file in a Jupyter Environment then run all cells, then open the local gradio link in browser
 
 📌 Example
 
